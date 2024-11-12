@@ -11,11 +11,12 @@ I'm Vaibhav, an aspiring software developer passionate about coding and constant
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgupta5&theme=github_dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgupta5&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vaibhavgupta5&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=vaibhavgupta5&icon=6&color=1)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratyush-who&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vaixbhav) 
