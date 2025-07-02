@@ -14,6 +14,7 @@ I'm Vaibhav, an aspiring software developer passionate about coding and constant
 ## 🌟 Contribution Stats
 ![](https://github-readme-stats.vercel.app/api?username=vaibhavgupta5&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
 
+![](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavgupta5&radius=10&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhavgupta5&theme=radical&no-frame=false&no-bg=false&margin-w=44)
