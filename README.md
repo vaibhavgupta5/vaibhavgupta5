@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔥 About Me:
 I'm Vaibhav, an aspiring software developer passionate about coding and constantly learning new technologies. Currently, I'm focused on mastering JavaScript, TypeScript, React, and Next.js while exploring web, and backend development.
 
 
